@@ -1,0 +1,26 @@
+
+
+.main{
+    background-color: cornflowerblue;
+    width: 600px;
+    /*position: absolute;*/
+    margin: 100px auto;
+}
+
+/*#responseText{*/
+/*    width: 500px;*/
+/*    position: relative;*/
+/*    background-color: hotpink;*/
+/*    margin: 0 auto;*/
+/*}*/
+h3{
+    background-color: green;
+}
+
+
+#contain{
+    width: 500px;
+    position: relative;
+    background-color: hotpink;
+    margin: 0 auto;
+}
